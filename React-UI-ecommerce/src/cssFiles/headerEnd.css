@@ -1,0 +1,16 @@
+.navbar {
+  background-color: var(--white);
+  font-size: 12px;
+  font-weight: 700;
+  border-bottom: 1px solid var(--lightBlue);
+  height: 70px;
+}
+.navbar-link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: var(--darkGray);
+}
+.sperator {
+  border-bottom: 1px solid var(--lightBlue);
+  height: 16px;
+}

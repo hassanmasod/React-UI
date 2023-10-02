@@ -1,0 +1,30 @@
+.product-image {
+  width: 30rem;
+}
+.Product-subImage {
+  width: 6rem;
+}
+.iconstar {
+  color: var(--yellow);
+}
+.outlineremove {
+  outline: 0;
+  margin-left: 20px;
+  border: 1px solid var(--lightGray);
+}
+
+.add-to-cart {
+  background-color: var(--addtocard);
+  cursor: pointer;
+}
+.dropdownSize{
+  margin-left: 40px;
+}
+.imageDescription{
+  width: 400px;
+  height: 400px;
+}
+.iconDetailPage{
+  width: 25px;
+  height: 25px;
+}

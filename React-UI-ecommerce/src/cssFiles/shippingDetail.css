@@ -1,0 +1,15 @@
+
+  
+  .border { border: 1px solid var(--lightGray) }
+  
+  .vl { border-left: 2px solid var(--lightGray) }
+  
+  h6 { font-weight: 600 }
+  .shipicon{
+    
+    height: 40px;
+    width:40px;
+  }
+  
+
+  

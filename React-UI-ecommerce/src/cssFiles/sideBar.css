@@ -1,0 +1,24 @@
+.sidebare {
+  border: 2px solid var(--lightGray);
+  height: 418px;
+  width: 300px;
+  /* color:var(--lightGray); */
+}
+spam {
+  color: var(--lightGray);
+}
+
+.sidebare h5 {
+  background-color: var(--lightGray);
+}
+
+.hugeSale {
+  background-color: var(--darkGray);
+}
+.summerSale {
+  font-family: "Segoe Script", "Savoye LET";
+}
+
+.offer {
+  font-family: Poppins, sans-serif;
+}

@@ -1,0 +1,36 @@
+nav {
+  background-color: var(--blue);
+}
+
+.image img {
+  width: 130px;
+  height: 60px;
+}
+
+.inputfield {
+  width: 560px;
+  border: 1px solid var(--blue);
+}
+
+.inputfield input {
+  border-radius: 50px;
+}
+.main-left .iconsphone {
+  width: 30px;
+  height: 50px;
+}
+.main-left .icons .iconic {
+  width: 30px;
+  height: 30px;
+  color: var(--white);
+}
+.search-icon{
+  margin-left: 148px;
+  height: 20px;
+  padding-top: 12px;
+  
+} 
+.search-Box{
+  outline: 0px;
+  width: 100%;
+}

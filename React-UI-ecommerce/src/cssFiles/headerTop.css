@@ -1,0 +1,31 @@
+header {
+  background-color: var(--blue);
+}
+
+.heading {
+  font-size: 12px;
+  color: var(--white);
+}
+
+.heading1 {
+  font-size: 12px;
+}
+.textColor {
+  color: var(--lightBlue);
+}
+
+.dropdown select {
+  border: none;
+  background-color: var(--blue);
+  color: var(--lightBlue);
+}
+.sperator {
+  border-left: 1px solid var(--lightBlue);
+  height: 16px;
+}
+
+.topseperator {
+  color: var(--lightBlue);
+  margin-right: 9%;
+  margin-left: 9%;
+}
